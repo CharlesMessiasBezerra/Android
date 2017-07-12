@@ -1,0 +1,30 @@
+<resources>
+
+
+    <!-- Base application theme. -->
+    <style name="CMB_AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">@color/LightSilver</item>
+    </style>
+
+    <style name="SplashScreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/img_splash</item>
+    </style>
+
+    <style name="CMB_NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/darkSilver</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!-- Customizações a serem organizadas -->
+
+    <style name="CMB_EditText_Login">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textColor">@color/silver</item>
+        <item name="android:background">@drawable/xml_edit_text_round</item>
+    </style>
+
+</resources>

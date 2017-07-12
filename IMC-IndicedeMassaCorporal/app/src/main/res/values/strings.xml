@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC - Indice de Massa Corporal</string>
+    <string name="action_settings">Configurações</string>
+    <string name="txt_Peso">Peso</string>
+    <string name="txt_altura">Altura</string>
+    <string name="txt_Resultado">Resultado</string>
+    <string name="btn_Limpar">Limpar</string>
+    <string name="btn_Calcular">Calcular</string>
+
+
+</resources>

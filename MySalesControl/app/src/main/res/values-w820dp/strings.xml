@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Sales Control</string>
+    <string name="nome">Nome:</string>
+    <string name="senha">Senha:</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Sair">Sair</string>
+</resources>

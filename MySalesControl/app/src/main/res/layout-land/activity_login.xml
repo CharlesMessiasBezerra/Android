@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="288dp"
+        android:layout_height="138dp"
+        android:src="@drawable/img_login" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/nome" />
+
+
+        <EditText
+            android:id="@+id/txtnome"
+            style="@style/CMB_EditText_Login"
+            android:layout_width="450dp"
+            android:layout_height="wrap_content"
+            android:gravity="left" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top|center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/senha" />
+
+        <EditText
+            android:id="@+id/txtSenha"
+            style="@style/CMB_EditText_Login"
+            android:layout_width="450dp"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:inputType="textPassword" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/Sair" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/Entrar" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+

@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Android" title="Android" src=".github/android.jpeg" />
+    <img alt="Android" title="Android" src=".github/android.jpg" />
 </h1>
 
 <p align="center">

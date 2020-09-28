@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p> 
 <br>
 
@@ -13,3 +14,7 @@ Esse código foi desenvolvido com as seguintes tecnologias:
 
 - [Java](https://www.java.com/pt-BR/download)
 - [Android Studio](https://developer.android.com/studio)
+
+## ✍ Descrição
+
+Esse código  foi criado para fins de estudo com android
